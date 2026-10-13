@@ -1,0 +1,18 @@
+Self-hosted font files in this folder, downloaded from Google Fonts
+(fonts.gstatic.com), latin subset, woff2 format:
+
+- InterTight-Variable.woff2 / InterTight-Italic-Variable.woff2
+  Inter Tight by Rasmus Andersson — SIL Open Font License 1.1
+  https://github.com/rsms/inter
+
+- InstrumentSerif-Regular.woff2 / InstrumentSerif-Italic.woff2
+  Instrument Serif by Instrument — SIL Open Font License 1.1
+  https://fonts.google.com/specimen/Instrument+Serif
+
+- JetBrainsMono-Variable.woff2
+  JetBrains Mono by JetBrains — SIL Open Font License 1.1
+  https://www.jetbrains.com/lp/mono/
+
+All three families are licensed under the SIL Open Font License, version 1.1,
+which permits bundling and self-hosting. Full license text:
+https://openfontlicense.org

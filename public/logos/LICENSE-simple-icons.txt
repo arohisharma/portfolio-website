@@ -1,0 +1,9 @@
+Simple Icons — https://simpleicons.org
+License: CC0 1.0 Universal (public domain dedication)
+
+Icons copied into this folder: claude.svg, cursor.svg, leetcode.svg, hackerrank.svg
+
+Brand icons (and their colours/trademarks) remain the property of their
+respective owners (Anthropic, Cursor, LeetCode, HackerRank). See
+https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md for the
+full CC0 text covering the SVG markup distributed by the Simple Icons project.

@@ -1,0 +1,14 @@
+Devicon — https://github.com/devicons/devicon
+License: MIT License
+
+Icons copied into this folder: react.svg, redux.svg, typescript.svg, javascript.svg,
+nextjs.svg, html5.svg, css3.svg, git.svg, materialui.svg, aws.svg, linkedin.svg, github.svg,
+figma.svg
+
+Copyright (c) Devicon contributors.
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies
+of the Software, subject to the conditions of the MIT License. See
+https://github.com/devicons/devicon/blob/master/LICENSE for full text.
